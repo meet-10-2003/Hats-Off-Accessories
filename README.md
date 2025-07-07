@@ -20,3 +20,5 @@ Worked as a frontend developer on this fashion e-commerce project. My primary re
 - Real-world deployment experience in fashion retail domain
 - Improved site usability and performance
 
+##Screenshot
+![Hats Off Accessories](https://github.com/user-attachments/assets/5341fb98-c173-4e40-bc44-353cd7f8b10e)
